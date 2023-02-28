@@ -1,0 +1,35 @@
+body {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: azure;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5f5f5f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px #000 solid;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+
+button {
+    margin-right: 50px;
+}
+
+#box2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    background: greenyellow;
+    position: relative;
+}
